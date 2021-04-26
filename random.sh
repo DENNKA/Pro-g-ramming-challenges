@@ -1,1 +1,1 @@
-echo 50
+echo $((1 + $RANDOM % 145))
